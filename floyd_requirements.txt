@@ -1,4 +1,4 @@
 flask
-tensorflow==1.13.1
+tensorflow==1.15.2
 tensorflow_hub
 tf_sentencepiece
